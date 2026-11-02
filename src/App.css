@@ -1,0 +1,45 @@
+body {
+    background-color: black;
+    min-height: 100%;
+    color: white;
+}
+
+.CE {
+    position: absolute;
+    top: 225px;
+    left: 300px;
+    color: white;
+}
+
+.par {
+    position: absolute;
+    top: 285px;
+    left: 300px;
+    color: white;
+}
+
+.btn {
+    position: absolute;
+    top: 375px;
+    left: 300px;
+
+    outline: none;
+    border: 1px #62BA1B;
+    background-color: #3F8E00;
+    font-size: 25px;
+    color: white;
+    padding: 15px 50px;
+    box-shadow:
+    0 0 15px #62BA1B
+    0 0 15px #62BA1B
+    0 0 15px #62BA1B;
+}
+
+.img{
+    width: 220px;
+    height: 220px;
+    border-radius: 50%;
+    position: absolute;
+    top: 220px;
+    left: 900px
+}
