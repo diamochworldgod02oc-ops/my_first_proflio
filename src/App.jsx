@@ -12,7 +12,7 @@ function App(){
 
       <button className="btn">  Let's Get started!  </button>
 
-      <img src="src/noob.jpg" className="img"/>
+      <img src="/noob.jpg" className="img"/>
 
     </div>
   )
